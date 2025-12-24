@@ -74,9 +74,7 @@ numpy
 scikit-learn
 
 ▶️ How to Run the Project
-1️⃣ Clone the Repository
-git clone https://github.com/your-username/MEDIMATE-Chatbot.git
-cd MEDIMATE-Chatbot
+
 
 2️⃣ Install Dependencies
 pip install -r requirements.txt
